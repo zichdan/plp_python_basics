@@ -18,4 +18,3 @@ b3  = False
 print( b1 or b2) #true
 print( b1 or b3) #true
 
-#
